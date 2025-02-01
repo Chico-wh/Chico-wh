@@ -61,13 +61,11 @@
         <td align="center" width=110>Matplotlib</td>
       </tr>
     </tr>
-  </table>  
-  <table>
     <thead>
       <tr>
         <th colspan="6">Frameworks & Libraries </th>
       </tr>
-    </thead>
+    
     <tr>
       <td align="center" width=110> <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
