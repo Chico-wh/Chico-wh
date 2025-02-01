@@ -7,14 +7,14 @@
   ##About Me 
 - Autodidact, I create codes for fun.
 
--currently learning everything I can to become a professional in the field with extensive knowledge.
+- currently learning everything I can to become a professional in the field with extensive knowledge.
 
 - I code at Night because i am batman 
 
 
 
   
-## ⚙️ Skills and Tools
+## ⚙️ Skills
 <div align="center">
   <table>
     <thead>
@@ -83,14 +83,9 @@
       <th colspan="7">CI/CD & DevOps Toolchain</th>
     </tr>
     </thead>
-    <tr>
  <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
     </tr>
     <tr> 
-      
-      <td align="center" width=110>Docker</td>
-      
-    </tr>
   </table>
   <table>
     <thead>
