@@ -25,7 +25,7 @@
     <tr>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/c-icon.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
