@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack dev|Machine Learning and ComputerVision| Data Scsience </h3>
+<h3 align="center">Full Stack dev|Machine Learning and ComputerVision| Data Science </h3>
 
 <div>
 
