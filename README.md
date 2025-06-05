@@ -25,12 +25,12 @@
     <tr>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/python-icon.svg"/> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-plain.svg"> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
       <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>C</td>
+      <td align="center" width=110>C#</td>
     </tr>
   </table>
   <table>
