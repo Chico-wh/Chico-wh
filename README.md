@@ -16,9 +16,8 @@ Sou desenvolvedor full stack com forte experiência em desenvolvimento backend, 
 
 Minha stack principal envolve **Python, Django, Django REST Framework, FastAPI, TypeScript, React, Next.js e PostgreSQL**, com experiência prática no desenvolvimento de plataformas reais, dashboards administrativos, sistemas de marketplace, integrações de pagamento, webhooks, filas assíncronas, autenticação, upload de arquivos, WebSockets e fluxos de negócio.
 
-Tenho experiência construindo soluções que conectam tecnologia com necessidade real de negócio, transformando processos manuais em sistemas mais organizados, automatizados e escaláveis. Ou seja, tentando dar alguma ordem ao caos corporativo, essa entidade mitológica que insiste em sobreviver.
-
-Atualmente curso **Ciência da Computação** e sigo evoluindo em arquitetura de software, backend engineering, frontend moderno, DevOps, sistemas distribuídos, dados e aplicações com inteligência artificial.
+Tenho experiência construindo soluções que conectam tecnologia com necessidade real de negócio, transformando processos manuais em sistemas mais organizados, automatizados e escaláveis. Ou seja, tentando dar alguma ordem ao caos corporativo...com um pouo de caos controlado por milhares de linhas de codigo
+Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua maioria autodidata e sigo evoluindo em arquitetura de software, backend engineering, frontend moderno, DevOps, sistemas distribuídos, dados e aplicações com inteligência artificial.
 
 ---
 
@@ -27,6 +26,7 @@ Atualmente curso **Ciência da Computação** e sigo evoluindo em arquitetura de
 ### Backend
 
 - Python
+- Typescript
 - Django
 - Django REST Framework
 - FastAPI
