@@ -5,103 +5,22 @@
 </h3>
 
 <p align="center">
-  Desenvolvedor full stack com foco em backend, criação de APIs, automação de processos, integrações, sistemas web e aplicações orientadas a produto.
+  Desenvolvedor com foco em backend, APIs, automação, integrações, sistemas web e produtos digitais.
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor full stack com forte experiência em desenvolvimento backend, APIs RESTful, modelagem de dados, automação de processos e construção de aplicações web completas.
+Sou desenvolvedor full stack com foco em **backend**, construção de **APIs RESTful**, automação de processos, modelagem de dados e desenvolvimento de aplicações web completas.
 
-Minha stack principal envolve **Python, Django, Django REST Framework, FastAPI, TypeScript, React, Next.js e PostgreSQL**, com experiência prática no desenvolvimento de plataformas reais, dashboards administrativos, sistemas de marketplace, integrações de pagamento, webhooks, filas assíncronas, autenticação, upload de arquivos, WebSockets e fluxos de negócio.
+Minha stack principal envolve **Python, Django, Django REST Framework, FastAPI, TypeScript, React, Next.js e PostgreSQL**. Tenho experiência prática com marketplaces, dashboards administrativos, integrações de pagamento, webhooks, filas assíncronas, autenticação, WebSockets e deploy de aplicações.
 
-Tenho experiência construindo soluções que conectam tecnologia com necessidade real de negócio, transformando processos manuais em sistemas mais organizados, automatizados e escaláveis. Ou seja, tentando dar alguma ordem ao caos corporativo...com um pouo de caos controlado por milhares de linhas de codigo
-Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua maioria autodidata e sigo evoluindo em arquitetura de software, backend engineering, frontend moderno, DevOps, sistemas distribuídos, dados e aplicações com inteligência artificial.
-
----
-
-## Competências principais
-
-### Backend
-
-- Python
-- Typescript
-- Django
-- Django REST Framework
-- FastAPI
-- APIs RESTful
-- Autenticação e autorização
-- Regras de negócio
-- Modelagem de domínio
-- Webhooks
-- Integrações com serviços externos
-- Sistemas de pagamento
-- Upload de arquivos e mídia
-- Processamento assíncrono
-- Background jobs
-- WebSockets
-
-### Frontend
-
-- React
-- Next.js
-- Vite
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Componentização
-- Interfaces responsivas
-- Dashboards administrativos
-- Integração com APIs
-- Formulários e validação
-- Experiência do usuário
-
-### Banco de dados
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQLite
-- Redis
-- Modelagem relacional
-- Consistência de dados
-- Indexação
-- Otimização de queries
-- Fluxos transacionais
-
-### DevOps e infraestrutura
-
-- Docker
-- Linux
-- Nginx
-- Gunicorn
-- Uvicorn
-- PM2
-- Redis
-- Celery
-- Railway
-- Render
-- Deploy em VPS
-- Configuração de ambientes
-- Noções de CI/CD
-
-### Engenharia de software
-
-- Clean Code
-- SOLID
-- Arquitetura modular
-- Design Patterns
-- Organização de projetos
-- API-first development
-- Separação de responsabilidades
-- Código manutenível
-- Documentação técnica
-- Testes automatizados básicos
+Atualmente curso **Ciência da Computação**, com base técnica majoritariamente autodidata, evoluindo em arquitetura de software, backend engineering, DevOps, dados e aplicações com inteligência artificial.
 
 ---
 
-## Stack técnica
+## Stack Técnica
 
 <div align="center">
 
@@ -111,23 +30,19 @@ Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua mai
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=python" width="55" height="55" />
-      <br />
-      <strong>Python</strong>
+      <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" />
-      <br />
-      <strong>TypeScript</strong>
+      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js" width="55" height="55" />
-      <br />
-      <strong>JavaScript</strong>
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" />
-      <br />
-      <strong>C#</strong>
+      <br><strong>C#</strong>
     </td>
   </tr>
 </table>
@@ -138,28 +53,23 @@ Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua mai
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=django" width="55" height="55" />
-      <br />
-      <strong>Django</strong>
+      <br><strong>Django</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="55" height="55" />
-      <br />
-      <strong>DRF</strong>
+      <br><strong>DRF</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" />
-      <br />
-      <strong>FastAPI</strong>
+      <br><strong>FastAPI</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
-      <br />
-      <strong>Node.js</strong>
+      <br><strong>Node.js</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" />
-      <br />
-      <strong>NestJS</strong>
+      <br><strong>NestJS</strong>
     </td>
   </tr>
 </table>
@@ -170,146 +80,89 @@ Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua mai
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
-      <br />
-      <strong>React</strong>
+      <br><strong>React</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
-      <br />
-      <strong>Next.js</strong>
+      <br><strong>Next.js</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" />
-      <br />
-      <strong>Vite</strong>
+      <br><strong>Vite</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
-      <br />
-      <strong>Tailwind</strong>
+      <br><strong>Tailwind</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
-      <br />
-      <strong>HTML5</strong>
+      <br><strong>HTML5</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
-      <br />
-      <strong>CSS3</strong>
+      <br><strong>CSS3</strong>
     </td>
   </tr>
 </table>
 
-### Banco de Dados
+### Banco de Dados & DevOps
 
 <table>
   <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" />
-      <br />
-      <strong>PostgreSQL</strong>
+      <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
-      <br />
-      <strong>MySQL</strong>
+      <br><strong>MySQL</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
-      <br />
-      <strong>MongoDB</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" />
-      <br />
-      <strong>SQLite</strong>
+      <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" />
-      <br />
-      <strong>Redis</strong>
+      <br><strong>Redis</strong>
     </td>
-  </tr>
-</table>
-
-### DevOps e Ferramentas
-
-<table>
-  <tr>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" />
-      <br />
-      <strong>Docker</strong>
+      <br><strong>Docker</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
-      <br />
-      <strong>Linux</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" />
-      <br />
-      <strong>Nginx</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
-      <br />
-      <strong>Git</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
-      <br />
-      <strong>GitHub</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
-      <br />
-      <strong>Postman</strong>
+      <br><strong>Linux</strong>
     </td>
   </tr>
 </table>
 
-### Dados, Machine Learning e Visão Computacional
+### Dados, IA & Visão Computacional
 
 <table>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" />
-      <br />
-      <strong>NumPy</strong>
+      <br><strong>NumPy</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" />
-      <br />
-      <strong>Pandas</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" />
-      <br />
-      <strong>Matplotlib</strong>
+      <br><strong>Pandas</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" />
-      <br />
-      <strong>Scikit-learn</strong>
+      <br><strong>Scikit-learn</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" />
-      <br />
-      <strong>OpenCV</strong>
+      <br><strong>OpenCV</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" />
-      <br />
-      <strong>TensorFlow</strong>
+      <br><strong>TensorFlow</strong>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" />
-      <br />
-      <strong>PyTorch</strong>
+      <br><strong>PyTorch</strong>
     </td>
   </tr>
 </table>
@@ -318,109 +171,54 @@ Atualmente curso **Ciência da Computação** mas meu conhecimento é em sua mai
 
 ---
 
-## Experiências e projetos relevantes
+## Competências
 
-### Plataforma de marketplace e aluguel de itens
-
-Desenvolvimento de uma plataforma web para aluguel de itens, com funcionalidades como:
-
-- Cadastro e gerenciamento de anúncios
-- Fluxo para locadores e locatários
-- Upload de imagens
-- Definição de preços por diária
-- Regras de disponibilidade
-- Sistema de reservas
-- Integração com pagamentos
-- Onboarding de contas de locadores
-- Cálculo de taxas da plataforma
-- Processamento de webhooks
-- Dashboard administrativo
-- Frontend orientado a PWA
-- Integração entre frontend e backend via API
-
-### Sistemas de pagamento e onboarding
-
-Experiência com fluxos relacionados a pagamentos, incluindo:
-
-- Criação de cobranças
-- Recebimento e tratamento de webhooks
-- Status de pagamentos
-- Integração com provedor externo
-- Onboarding de usuários recebedores
-- Cálculo de taxas
-- Controle de repasses
-- Tarefas assíncronas de verificação
-- Exibição de status financeiros no frontend
-
-### Sistemas internos e automação
-
-Desenvolvimento de soluções para automatizar processos manuais e melhorar operações, incluindo:
-
-- Automação de fluxos internos
-- Agendamento de tarefas
-- Notificações
-- Sincronização de dados
-- Painéis administrativos
-- Organização de processos operacionais
-- Ferramentas para suporte à tomada de decisão
-
-### Funcionalidades em tempo real
-
-Experiência com recursos em tempo real usando:
-
-- WebSockets
-- Rotas autenticadas para conexão em tempo real
-- Chats e eventos dinâmicos
-- Integração socket no frontend
-- Debug de conexão em produção
-
----
-
-## Dados, IA e visão computacional
-
-Também estudo e desenvolvo projetos usando ferramentas de dados, machine learning e visão computacional, principalmente para experimentação, análise e automação.
-
-### Áreas de interesse
-
-- Análise de dados
-- Ciência de dados aplicada
-- Visão computacional
-- Processamento de imagens
-- Modelos preditivos
-- Classificação
-- Automação com machine learning
-- Aplicações de IA em produtos reais
-
----
-
-## O que gosto de construir
-
-- APIs bem organizadas e documentadas
-- Backends com regras de negócio claras
-- Dashboards úteis
-- Sistemas de automação
-- Marketplaces
-- SaaS
-- Fluxos de pagamento
+- Desenvolvimento de APIs RESTful
+- Autenticação e autorização
+- Modelagem de dados relacionais
 - Integrações com serviços externos
-- Sistemas em tempo real
-- Aplicações orientadas a dados
-- Produtos que resolvem problemas reais
+- Webhooks e sistemas de pagamento
+- Processamento assíncrono com filas
+- Background jobs
+- WebSockets
+- Dashboards administrativos
+- Interfaces responsivas
+- Deploy de aplicações web
+- Automação de processos
+- Clean Code, SOLID e arquitetura modular
 
 ---
 
-## Atualmente estudando e evoluindo
+## Projetos e experiências
+
+### Marketplace e aluguel de itens
+
+Desenvolvimento de uma plataforma para aluguel de itens com cadastro de anúncios, upload de imagens, reservas, pagamentos, onboarding de locadores, cálculo de taxas, webhooks e dashboard administrativo.
+
+### Sistemas de pagamento
+
+Experiência com criação de cobranças, tratamento de webhooks, status de pagamento, controle de repasses, cálculo de taxas e tarefas assíncronas de verificação.
+
+### Automação e sistemas internos
+
+Criação de soluções para automatizar fluxos manuais, organizar processos operacionais, sincronizar dados e construir painéis administrativos.
+
+### Tempo real
+
+Experiência com WebSockets, rotas autenticadas, eventos em tempo real, chats e integração entre backend e frontend.
+
+---
+
+## Atualmente estudando
 
 - Arquitetura backend avançada
 - Sistemas distribuídos
-- System design
+- System Design
 - Testes automatizados
-- Observabilidade
 - CI/CD
-- Deploy em cloud
+- Observabilidade
 - Engenharia de dados
-- Machine learning aplicado a produtos
-- Design systems no frontend
+- Machine Learning aplicado a produtos
 
 ---
 
@@ -428,9 +226,9 @@ Também estudo e desenvolvo projetos usando ferramentas de dados, machine learni
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chico-wh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Chico-wh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chico-wh&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chico-wh&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -448,10 +246,4 @@ Também estudo e desenvolvo projetos usando ferramentas de dados, machine learni
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Felipe-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
----
-
-<p align="center">
-  Desenvolvendo software, automatizando processos e construindo produtos digitais com foco em backend, dados, integrações e experiência do usuário.
 </p>
